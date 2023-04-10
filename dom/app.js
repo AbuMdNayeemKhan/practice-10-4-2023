@@ -14,10 +14,10 @@
 
 // getTag.innerHTML = "hello JS";
 
-let queryClass = document.querySelector(".myclass");
-let queryId = document.querySelector("#id-1");
-let queryTag = document.querySelector("p");
+// let queryClass = document.querySelector(".myclass");
+// let queryId = document.querySelector("#id-1");
+// let queryTag = document.querySelector("p");
 
-let queryAll = document.querySelectorAll("p")[1];
+// let queryAll = document.querySelectorAll("p")[1];
 
-queryAll.innerHTML = "Hello World!";
+// queryAll.innerHTML = "Hello World!";
